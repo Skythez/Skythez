@@ -6,13 +6,33 @@ Anaplan Developer
 
 I've been learning to code for some time now. Working as ERP expert, but looking forward to get some chops in scripting, front-end, back-end and other exciting fields.
 
-*   🌍  I'm based in Rzeszów
-*   🖥️  See my portfolio at [MyPortfolio](http://dummy.com)
-*   ✉️  You can contact me at [pasko.kml@gmail.com](mailto:pasko.kml@gmail.com)
-*   🚀  I'm currently working on [NewApplication](http://DummyApp.com)
-*   🧠  I'm learning Anaplan and Python
-*   🤝  I'm open to collaborating on Any open source projects that I can contribute to### Skills 
+* 🌍  I'm based in Rzeszów
+* 🖥️  See my portfolio at [MyPortfolio](http://dummy.com)
+* ✉️  You can contact me at [pasko.kml@gmail.com](mailto:pasko.kml@gmail.com)
+* 🚀  I'm currently working on [NewApplication](http://DummyApp.com)
+* 🧠  I'm learning Anaplan and Python
+* 🤝  I'm open to collaborating on Any open source projects that I can contribute to
+
+### Skills
+
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-                    </p>
-                    
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Skythez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Skythez"><img src="https://github-readme-stats.vercel.app/api?username=Skythez&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Skythez's GitHub stats" /></a>
+
+<a href="http://www.github.com/Skythez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Skythez&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Skythez"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Skythez&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Skythez" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skythez&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
